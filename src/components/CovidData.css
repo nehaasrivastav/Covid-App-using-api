@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: rgb(45, 31, 10);
+
+}
+h1{
+    /* text-align: center; */
+    color: rgb(247, 251, 252);
+}
+.input-group {
+    width: 40vw;
+    background-color:rgb(49, 32, 5) ;
+}
+   
+span{
+color: rgb(84, 58, 19);
+}
+h2{
+    color: rgb(22, 22, 117);
+}
+h3{
+    color: rgb(27, 19, 9);
+}
